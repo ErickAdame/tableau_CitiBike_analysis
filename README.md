@@ -15,8 +15,8 @@ Below is a sample visualization that examined avg trip length of citibike users 
 
 This analysis also examined ridership patterns by gender. There was a very large number of indentification as UNKNOWN for gender. This data was included simply for trasnaprency that the gender could be either non-binary or simply left blank or perhaps any other reason. Of the data that was available, males seemed more likely to take trips late in the day that could carry into times when the sun is down. 
 
-![Alt text](relative%20path/images/gender_patterns?raw=true "gender patterns")
+ <img src="images/gender_patterns.png">
 
 An overall summary was completed also to determined popular start and end locations across the citibike network. Not surprisingly, many very popular end points are near Central Park. This data could be compared to winter data to determine if commuting patterns differ more dramatically when compared to leisure rides and rides completed by tourists.
 
-![Alt text](relative%20path/images/station_patterns?raw=true "gender patterns")
+ <img src="images/station_patterns.png">
