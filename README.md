@@ -11,7 +11,7 @@ https://public.tableau.com/app/profile/erick.adame/viz/ErickAdameCitibikeAnalysi
 
 Below is a sample visualization that examined avg trip length of citibike users by age. Interestingly enough, there's a spike in duration of trips for those around the age of 28 years. Outside of that outlier, regardless of age, that average duration usually falls between 15 and 25 minutes. There's a notable drop in duration for the oldest riders. The data included what is likely bad data with ages over 100 years. This was filtered out until it can be determined if that data is valid.
 
- <img src="/images/age_duation.png?raw=true">
+ <img src="images/age_duration.png">
 
 This analysis also examined ridership patterns by gender. There was a very large number of indentification as UNKNOWN for gender. This data was included simply for trasnaprency that the gender could be either non-binary or simply left blank or perhaps any other reason. Of the data that was available, males seemed more likely to take trips late in the day that could carry into times when the sun is down. 
 
